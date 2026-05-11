@@ -28,3 +28,7 @@
 
 **Use Case Diagram.jpg**  
 >This shows the connections between the main and reciprocative actors and CompLit system through use cases in an image format.
+
+
+**Trello Board Link**
+>https://trello.com/b/KpyJu9nK/team-flashbang
