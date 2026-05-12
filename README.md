@@ -30,5 +30,20 @@
 >This shows the connections between the main and reciprocative actors and CompLit system through use cases in an image format.
 
 
+**Class Diagram System Design CompLit app.vsdx**
+>This document contains the methods that our app will contain.
+
+**pseudocode all methods Class Design CompLit.docx**
+>This document contains the pseudocode that corresponds to all the methods from the design-level class diagram to aid the developers in the programming phase.
+
+
+**StateCharts.drawio**
+>This file contains the state charts based on the class diagrams to show the different states of the app.
+
+
+**First Cut Sequence Diagrams.drawio**
+>This contains all the elements in between the connections in our app.
+
+
 **Trello Board Link**
 >https://trello.com/b/KpyJu9nK/team-flashbang
